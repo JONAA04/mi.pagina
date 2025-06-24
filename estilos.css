@@ -1,0 +1,52 @@
+.tituloprincipal {
+            background: linear-gradient(to right, #FF4500, #FF8C00); /* Degradado naranja */
+      color: #191970; /* Texto blanco para que resalte */
+
+font-size: 35px;
+font-weight: 900;
+text-shadow: 2px 4px 5px rgba(0, 0, 0, 0.3);
+text-align:center;
+}
+
+.img {
+margin:auto;
+display: block;
+}
+.texto {
+font-size: 15px;
+font-weight: 550;
+color: #000000;
+text-align:center;
+}
+.texto2 {
+font-size: 15px;
+font-weight: 550;
+color: #000000;
+text-align:center;
+}
+.texto3 {
+color: #FFFFE0;
+text-shadow: 2px 4px 5px rgba(0, 0, 0, 0.3);
+text-align:center;
+}
+.texto4 {
+font-size: 20px;
+font-weight: 650;
+  color: #FFFFE0;
+text-shadow: 2px 4px 5px rgba(0, 0, 0, 0.3);
+text-align:center;
+}
+.texto5 {
+font-size: 20px;
+font-weight: 650;
+  color: #FFFFE0;
+text-shadow: 2px 4px 5px rgba(0, 0, 0, 0.3);
+text-align:center;
+}
+.video {
+margin:auto;
+display: block;
+
+
+
+
