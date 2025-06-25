@@ -1,5 +1,7 @@
 .tituloprincipal {
-            background: linear-gradient(180deg, #0d3b66, #3d85c6); /* Degradado */
+           background: 
+  linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
+  linear-gradient(135deg, #1abc9c, #3498db);
       color: #191970; /* Texto blanco para que resalte */
 
 font-size: 45px;
