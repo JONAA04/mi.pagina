@@ -1,7 +1,7 @@
 .tituloprincipal {
-         background: linear-gradient(135deg, #002147, #2980b9);
-      color: #FFFFFF; /* Texto resalte */
-
+    background: linear-gradient(135deg, #002147, #2980b9);
+      color: white; /* Texto resalte */
+      text-align: center;
 font-size: 45px;
 font-weight: 900;
 text-shadow: 2px 4px 5px rgba(0, 0, 0, 0.3);
